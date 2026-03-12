@@ -1,15 +1,23 @@
 # Light Weather App
 
-## Introduction
-A lightweight weather application that provides weather updates and forecasts.
+This is a lightweight weather application that provides users with up-to-date weather information for their selected locations.
 
 ## Features
-- Simple user interface.
-- Real-time weather updates.
+- Current weather conditions
+- 5-day weather forecast
+- Search by city name
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
 
 ## Usage
-Clone the repository and follow the setup instructions to run the application locally.
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Enter a city name to get weather updates.
 
 ## Future Plans
-- Add more weather data sources.
-- Improve UI based on user feedback.
+- Add user location detection.
+- Improve UI with additional styling and animations.
